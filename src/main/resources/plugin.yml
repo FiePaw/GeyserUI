@@ -1,0 +1,10 @@
+name: My4ndPL
+version: '${project.version}'
+main: dev.fiepaw.my4ndpl.My4ndPL
+api-version: 1.19
+author: FiePaw
+commands:
+  keceabiez:
+    description: "JANGAN TOLOL LAGI YA"
+    usage: "/keceabiez"
+    aliases: "bodoh, baka"
